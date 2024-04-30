@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Matrix",
+        "date": "2024-03-15",
+        "time": "10:00 AM",
+        "participation_fee": 100,
+        "winner_prize": "To be announced"
+    },
+    {
+        "name": "Umung",
+        "date": "2024-05-20",
+        "time": "11:30 AM",
+        "participation_fee": 650,
+        "winner_prize": "To be announced"
+    },
+    {
+        "name": "Leadership Talks",
+        "date": "2024-07-08",
+        "time": "3:00 PM",
+        "participation_fee": 70,
+        "winner_prize": "To be announced"
+    },
+    {
+        "name": "Case study",
+        "date": "2024-09-12",
+        "time": "2:00 PM",
+        "participation_fee": 100,
+        "winner_prize": "To be announced"
+    },
+    {
+        "name": "Internhunt 6.0",
+        "date": "2024-11-18",
+        "time": "9:00 AM",
+        "participation_fee": 180,
+        "winner_prize": "To be announced"
+    }
+]
